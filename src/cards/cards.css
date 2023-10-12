@@ -1,0 +1,10 @@
+.a {
+    width: 700px;
+    height: 700px;
+    margin: 100px; /* Add spacing between cards */
+  }
+  
+  .card-container {
+    display: flex;
+  }
+  
